@@ -1,0 +1,84 @@
+README.md
+# 🔥 Joe Fenix Method + Meal Prep Calculator
+
+**Build. Protect. Fuel.**
+
+Il calcolatore ufficiale del **Joe Fenix Method** — trasforma i tuoi obiettivi nutrizionali in piani settimanali completi con meal prep integrato.
+
+---
+
+## 📖 Cos'è
+
+Uno strumento digitale (Python + Streamlit) che:
+
+✅ Calcola i tuoi target giornalieri personalizzati (proteine, carboidrati, grassi)  
+✅ Genera piani settimanali completi con le ricette del cookbook  
+✅ Crea la lista della spesa automatica  
+✅ Fornisce istruzioni di meal prep in 60 minuti  
+✅ Esporta tutto in PDF, Word e web interattivo  
+
+---
+
+## 🎯 Il Joe Fenix Method (CORE)
+
+**BUILD** — Proteine a ogni pasto  
+**PROTECT** — Verdure e micronutrienti  
+**FUEL** — Carboidrati intelligenti e grassi buoni  
+
+---
+
+## 🚀 Features
+
+- **Target personalizzati**: età, peso, altezza, livello di attività, obiettivo
+- **Piani alimentari**: onnivoro, vegetariano, vegano
+- **Gestione patologie**: diabete, ipertensione, intolleranze
+- **Ricette integrate**: dal cookbook "The Anti-Inflammatory High Protein Meal Prep Cookbook"
+- **Meal prep guidato**: 60 minuti per 7 giorni di pasti
+- **Export multipli**: PDF, Word, web
+
+---
+
+## 📦 Installazione
+
+```bash
+# Clona il repository
+git clone https://github.com/itqmethodology-afk/joe-fenix-calculator.git
+cd joe-fenix-calculator
+
+# Installa le dipendenze
+pip install -r requirements.txt
+
+# Avvia l'app
+streamlit run app.py
+
+🛠️ Tecnologie
+Python 3.9+
+Streamlit
+Pandas
+ReportLab (PDF)
+python-docx (Word)
+📚 Ricette Signature
+Alcune delle ricette incluse:
+
+Quinoa & Spinach Frittata
+Blueberry Pancakes (farina di mandorle)
+Yogurt greco con noci e semi di chia
+(e molte altre dal cookbook)
+👨‍🍳 Autore
+Giuseppe Visconti (Joe Fenix)
+Health Coach | Meal Prep Specialist | Autore
+
+📖 Cookbook: "The Anti-Inflammatory High Protein Meal Prep Cookbook" (2026)
+🌍 California & Puglia
+
+📄 Licenza
+MIT License — vedi file LICENSE per dettagli
+
+🎁 Accesso Gratuito
+Questo calcolatore è gratuito per tutti i lettori del cookbook.
+Acquista il libro e ottieni l'accesso completo al sistema!
+
+Build. Protect. Fuel. 🔥
+
+
+---
