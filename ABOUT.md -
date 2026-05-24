@@ -1,0 +1,42 @@
+# Joe Fenix Method + Meal Prep Calculator
+
+A comprehensive nutrition calculator that implements the Joe Fenix Method (BUILD. PROTECT. FUEL.) with integrated meal prep planning.
+
+## Features
+
+- Personalized daily macro targets based on activity level and goals
+- Weekly meal planning with protein distribution across meals
+- Integrated cookbook recipes (Quinoa & Spinach Frittata, Blueberry Almond Pancakes, Greek Yogurt Bowl)
+- Smart grocery list generation
+- 60-minute meal prep instructions
+- Support for omnivore, vegetarian, and vegan preferences
+- Health condition considerations (diabetes, hypertension, intolerances)
+- Hydration tracking and BMI calculator
+- Export to PDF, Word, and interactive web format
+
+## The Joe Fenix Method (CORE)
+
+- **BUILD** — Include protein at every meal
+- **PROTECT** — Load your plate with vegetables and micronutrients
+- **FUEL** — Add smart carbs and healthy fats
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+
+Usage
+streamlit run app.py
+
+Access
+This calculator is provided free to readers of "The Anti-Inflammatory High Protein Meal Prep Cookbook" (2026). Access requires a unique reader code.
+
+Author
+Giuseppe Visconti (Joe Fenix)
+Health Coach & Meal Prep Specialist
+
+License
+Proprietary - All rights reserved
+
+
+---
